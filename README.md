@@ -1,4 +1,5 @@
 # PROJECT-CRYPT
+Code has done for encrypting and decrypting messages. Based on RSA
 1. Enter number of symbols
 2. Enter text (first symbols - number of them) (example: 5qwerty)
 3. Enter 2 primes (1000...5000)
